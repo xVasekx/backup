@@ -1,0 +1,119 @@
+------------------------------------------------------------------------------
+Repository: ssh://borg@192.168.56.10/var/backup
+Archive name: etc-2024-02-23_11:54:02
+Archive fingerprint: ad90a3cd3703895ad97f7e0e1b19623e9bc7b5c9a4c73f47b4198ead8c1877ee
+Time (start): Fri, 2024-02-23 11:54:02
+Time (end):   Fri, 2024-02-23 11:54:03
+Duration: 0.12 seconds
+Number of files: 541
+Utilization of max. archive size: 0%
+------------------------------------------------------------------------------
+                       Original size      Compressed size    Deduplicated size
+This archive:                1.75 MB            776.09 kB                570 B
+All archives:                5.26 MB              2.33 MB            889.45 kB
+
+                       Unique chunks         Total chunks
+Chunk index:                     517                 1580
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+Repository: ssh://borg@192.168.56.10/var/backup
+Archive name: etc-2024-02-23_11:59:50
+Archive fingerprint: dd45cf8b08258c216819437c02780f6b9cf9b52dfa68f05eb62f1bc7bfd5467f
+Time (start): Fri, 2024-02-23 11:59:51
+Time (end):   Fri, 2024-02-23 11:59:51
+Duration: 0.14 seconds
+Number of files: 541
+Utilization of max. archive size: 0%
+------------------------------------------------------------------------------
+                       Original size      Compressed size    Deduplicated size
+This archive:                1.75 MB            776.09 kB              1.14 kB
+All archives:                5.26 MB              2.33 MB            950.31 kB
+
+                       Unique chunks         Total chunks
+Chunk index:                     519                 1580
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+Repository: ssh://borg@192.168.56.10/var/backup
+Archive name: etc-2024-02-23_12:05:01
+Archive fingerprint: d9a8d89663f52f2a67a4fffe5b43d0e52efe465b33ae6ae461c17edb39809645
+Time (start): Fri, 2024-02-23 12:05:02
+Time (end):   Fri, 2024-02-23 12:05:02
+Duration: 0.12 seconds
+Number of files: 541
+Utilization of max. archive size: 0%
+------------------------------------------------------------------------------
+                       Original size      Compressed size    Deduplicated size
+This archive:                1.75 MB            776.09 kB                569 B
+All archives:                5.26 MB              2.33 MB            889.45 kB
+
+                       Unique chunks         Total chunks
+Chunk index:                     517                 1580
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+Repository: ssh://borg@192.168.56.10/var/backup
+Archive name: etc-2024-02-23_12:10:02
+Archive fingerprint: 68a73afcf43993245d53b4ecb0495ae2e28fc548464f4ef1ca7256287bff31a5
+Time (start): Fri, 2024-02-23 12:10:02
+Time (end):   Fri, 2024-02-23 12:10:03
+Duration: 0.12 seconds
+Number of files: 541
+Utilization of max. archive size: 0%
+------------------------------------------------------------------------------
+                       Original size      Compressed size    Deduplicated size
+This archive:                1.75 MB            776.09 kB                570 B
+All archives:                5.26 MB              2.33 MB            889.45 kB
+
+                       Unique chunks         Total chunks
+Chunk index:                     517                 1580
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+Repository: ssh://borg@192.168.56.10/var/backup
+Archive name: etc-2024-02-23_12:16:02
+Archive fingerprint: 1b68b4d861595ad82ea3ac8c1ea35a6e70c2fbd2b7bf18b1df967c3fd22b54ed
+Time (start): Fri, 2024-02-23 12:16:02
+Time (end):   Fri, 2024-02-23 12:16:03
+Duration: 0.13 seconds
+Number of files: 541
+Utilization of max. archive size: 0%
+------------------------------------------------------------------------------
+                       Original size      Compressed size    Deduplicated size
+This archive:                1.75 MB            776.09 kB                570 B
+All archives:                5.26 MB              2.33 MB            889.45 kB
+
+                       Unique chunks         Total chunks
+Chunk index:                     517                 1580
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+Repository: ssh://borg@192.168.56.10/var/backup
+Archive name: etc-2024-02-23_12:22:02
+Archive fingerprint: 2439b6de22195b9f91b9c245f6abb9651a2e0acf51582114e66f38a2b0777946
+Time (start): Fri, 2024-02-23 12:22:02
+Time (end):   Fri, 2024-02-23 12:22:03
+Duration: 0.12 seconds
+Number of files: 541
+Utilization of max. archive size: 0%
+------------------------------------------------------------------------------
+                       Original size      Compressed size    Deduplicated size
+This archive:                1.75 MB            776.09 kB                570 B
+All archives:                5.26 MB              2.33 MB            889.45 kB
+
+                       Unique chunks         Total chunks
+Chunk index:                     517                 1580
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+Repository: ssh://borg@192.168.56.10/var/backup
+Archive name: etc-2024-02-23_12:27:39
+Archive fingerprint: 1285829ac159c180a4bd550a4800f7fb5ff82c80616b35003528b3a0ee1bc90d
+Time (start): Fri, 2024-02-23 12:27:39
+Time (end):   Fri, 2024-02-23 12:27:40
+Duration: 0.12 seconds
+Number of files: 541
+Utilization of max. archive size: 0%
+------------------------------------------------------------------------------
+                       Original size      Compressed size    Deduplicated size
+This archive:                1.75 MB            776.09 kB                570 B
+All archives:                5.26 MB              2.33 MB            889.45 kB
+
+                       Unique chunks         Total chunks
+Chunk index:                     517                 1580
+------------------------------------------------------------------------------

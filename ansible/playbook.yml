@@ -1,0 +1,33 @@
+---
+- hosts: all # part running on all hosts
+  become: true
+  tasks:
+  - name: install packages 
+    apt:
+      name: "{{ packages }}"
+      state: present
+    vars:
+      packages:
+      - borgbackup
+
+- hosts: backup
+  become: true
+  tasks:
+  - name: user add borg
+    user:
+      name: borg
+      home: /home/borg
+  - name: add folder .ssh
+    file:
+      path: /home/borg/.ssh
+      state: directory
+      owner: borg
+      group: borg
+  - name: chown borg backup
+    file:
+      path: /var/backup
+      owner: borg
+      group: borg
+
+
+
